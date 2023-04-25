@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Como** [papel]  
- **Necesito** [función]  
- **Para que** [beneficio]  
+**Necesito** [función]  
+**Para que** [beneficio]  
    
- ### Detalles y suposiciones
- * [documentar lo que sabe]
+### Detalles y suposiciones
+* [documentar lo que sabe]
    
- ### Criterios de aceptación  
+### Criterios de aceptación  
    
  ```pepinillo
  Dado [algún contexto]
